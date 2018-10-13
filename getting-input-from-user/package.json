@@ -1,0 +1,14 @@
+{
+  "name": "using-3party-modules",
+  "version": "1.0.0",
+  "description": "using 3rd party modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhany Nurdiansyah",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
