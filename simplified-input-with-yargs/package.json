@@ -1,0 +1,11 @@
+{
+  "name": "simplified-input-with-yargs",
+  "version": "1.0.0",
+  "description": "Simplify Input With Yargs",
+  "main": "app.js",
+  "author": "Dhany Nurdiansyah",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
