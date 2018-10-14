@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "using 3rd party modules",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Dhany Nurdiansyah",
   "license": "MIT"
 }
